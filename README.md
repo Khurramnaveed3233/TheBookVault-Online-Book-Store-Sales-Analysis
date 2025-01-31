@@ -136,23 +136,23 @@ Calculate the stock remaining after fulfilling all orders:
  
   - Genre Popularity: Fiction emerges as the most popular genre, indicating a strong reader preference and potential for targeted promotions.
 
-- **Sales Trends: A significant portion of book sales comprises publications released after 1950, reflecting a market inclination towards modern literature.**
+  - Sales Trends: A significant portion of book sales comprises publications released after 1950, reflecting a market inclination towards modern literature.**
   
-- **Customer Demographics: A considerable customer base exists in Canada, presenting an opportunity for region-specific marketing strategies.**
+  - Customer Demographics: A considerable customer base exists in Canada, presenting an opportunity for region-specific marketing strategies.**
 
-- **Seasonal Demand: A spike in orders during November 2023 suggests a seasonal sales pattern, useful for future sales forecasting and stock planning.**
+  - Seasonal Demand: A spike in orders during November 2023 suggests a seasonal sales pattern, useful for future sales forecasting and stock planning.**
 
-- **Stock and Pricing Insights: The most expensive book and the lowest stock items highlight the importance of dynamic pricing and inventory management.**
+  - Stock and Pricing Insights: The most expensive book and the lowest stock items highlight the importance of dynamic pricing and inventory management.**
 
-- **Bulk and High-Value Purchases: A notable number of customers place bulk orders and make purchases exceeding $20, emphasizing the potential for loyalty programs and premium 
+  - Bulk and High-Value Purchases: A notable number of customers place bulk orders and make purchases exceeding $20, emphasizing the potential for loyalty programs and premium 
     offerings.**
 
-- **Repeat Customers and Engagement: Customers who have placed multiple orders indicate a loyal customer base, which can be leveraged through engagement initiatives.**
+  - Repeat Customers and Engagement: Customers who have placed multiple orders indicate a loyal customer base, which can be leveraged through engagement initiatives.**
 
-- **Author and Book Performance: Certain books and authors significantly outperform others, providing valuable data for procurement and marketing decisions.**
+  - Author and Book Performance: Certain books and authors significantly outperform others, providing valuable data for procurement and marketing decisions.**
 
-- **Revenue and Profitability: The total revenue generated gives a clear picture of the bookstore’s financial health, aiding in strategic decision-making.**
+  - Revenue and Profitability: The total revenue generated gives a clear picture of the bookstore’s financial health, aiding in strategic decision-making.**
 
-- **Stock Management Post-Sales: Understanding stock levels after fulfilling orders helps in forecasting demand and improving supply chain efficiency.**
+  - Stock Management Post-Sales: Understanding stock levels after fulfilling orders helps in forecasting demand and improving supply chain efficiency.**
 
 
