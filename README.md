@@ -176,8 +176,6 @@ Calculate the stock remaining after fulfilling all orders:
 
   - Stock Management Post-Sales: Understanding stock levels after fulfilling orders helps in forecasting demand and improving supply chain efficiency.
 
-    holders
-
   - Stock Optimization: Increase inventory for best-selling books and low-stock items to prevent missed sales opportunities.
 
   - Targeted Marketing: Promote books based on customer location and past purchasing behavior (e.g., Canadian-specific campaigns).
