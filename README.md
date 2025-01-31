@@ -4,7 +4,7 @@ The project aims to analyze book inventory by understanding the availability and
 
 Additionally, tracking sales performance is a key objective, including revenue, best-selling books, and total sales figures. Operational efficiency is evaluated by assessing stock levels and recommending restocking strategies. The analysis further delves into market trends by identifying customer preferences through an examination of genres, authors, and pricing trends. Ultimately, the project provides stakeholders with actionable recommendations based on data-driven insights to optimize business decisions and enhance overall performance.
 
-- ** Business Questions are below :
+# Business Questions are below :
   
 Basic Queries
  1) Retrieve all books in the "Fiction" genre
