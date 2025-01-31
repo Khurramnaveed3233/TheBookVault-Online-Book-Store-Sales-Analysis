@@ -133,7 +133,8 @@ Calculate the stock remaining after fulfilling all orders:
 
  # Key Insights Extracted
 
-- **Genre Popularity: Fiction emerges as the most popular genre, indicating a strong reader preference and potential for targeted promotions.
+ 
+  - Genre Popularity: Fiction emerges as the most popular genre, indicating a strong reader preference and potential for targeted promotions.
 
 - **Sales Trends: A significant portion of book sales comprises publications released after 1950, reflecting a market inclination towards modern literature.**
   
