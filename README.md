@@ -28,9 +28,9 @@ Advance Queries
  8) Find the customer who spent the most on orders
  9) Calculate the stock remaining after fulfilling all order
 
--- 1) Retrieve all books in the "Fiction" genre:
+ - **1) Retrieve all books in the "Fiction" genre:**
 
-    SELECT * FROM Books WHERE Genre='Fiction';
+       SELECT * FROM Books WHERE Genre='Fiction';
 
 
    
