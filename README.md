@@ -16,6 +16,7 @@ Basic Queries
  9) List all genres available in the Books table
  10) Find the book with the lowest stock
  11) Calculate the total revenue generated from all order
+     
 Advance Queries
  1) Retrieve the total number of books sold for each genre
  2) Find the average price of books in the "Fantasy" genre
